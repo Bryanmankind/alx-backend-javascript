@@ -14,4 +14,4 @@ export default getFullResponseFromAPI(success){
 		}
 		reject(rej);
 	}
-};
+});
