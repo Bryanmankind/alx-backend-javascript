@@ -5,13 +5,13 @@ export default getFullResponseFromAPI(success){
 				status : 200,
 				body : 'success',
 			}
+			resolve(res);
 		}
-		resolve(res);
 		else {
 			const rej = {
 				msg: 'The fake API is not working currently',
 			}
+			reject(rej);
 		}
-		reject(rej);
 	}
 });
