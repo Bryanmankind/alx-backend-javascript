@@ -1,6 +1,6 @@
 export default getFullResponseFromAPI(success){
 	return new Promise ((resolve, reject) => {
-		if (true) {
+		if (success) {
 			const res = {
 				status : 200,
 				body : 'success',
