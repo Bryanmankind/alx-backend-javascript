@@ -1,0 +1,15 @@
+{
+  "name": "0x02-es6_classes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "0-classroom.js",
+  "scripts": {
+    "test": "test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Bryanmankind"
+  },
+  "author": "Makinde Oluwasegun",
+  "license": "ISC"
+}
