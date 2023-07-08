@@ -4,7 +4,7 @@
   "description": "",
   "main": "0-classroom.js",
   "scripts": {
-    "test": "test/*.js"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
