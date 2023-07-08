@@ -1,9 +1,14 @@
 {
+<<<<<<< HEAD
   "name": "typescript_dependencies",
+=======
+  "name": "0x04-typescript",
+>>>>>>> e263a8bdfbd3c6ad1cd686fef5bf69a9911002ec
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
+<<<<<<< HEAD
     "start-dev": "webpack-dev-server --open",
     "build": "webpack",
     "test": "jest"
@@ -28,5 +33,21 @@
     "webpack": "^4.41.2",
     "webpack-cli": "^3.3.9",
     "webpack-dev-server": "^3.8.2"
+=======
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Bryanmankind"
+  },
+  "author": "Makinde Oluwasegun",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.22.6",
+    "@babel/preset-env": "^7.22.6",
+    "babel-jest": "^29.6.0",
+    "eslint": "^8.44.0",
+    "jest": "^29.6.0"
+>>>>>>> e263a8bdfbd3c6ad1cd686fef5bf69a9911002ec
   }
 }
