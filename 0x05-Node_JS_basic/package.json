@@ -1,0 +1,22 @@
+{
+  "name": "0x05-node_js_basic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Bryanmankind"
+  },
+  "author": "Makinde_Oluwasegun",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.22.10",
+    "@babel/core": "^7.22.10",
+    "@babel/preset-env": "^7.22.10",
+    "eslint": "^8.47.0",
+    "eslint-plugin-react": "^7.33.2"
+  }
+}
